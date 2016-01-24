@@ -1,0 +1,6 @@
+# folder log
+#все файлы в папке .idea
+.idea/
+
+#все файлы формата TXT
+dogs/*.txt
